@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hackaton</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_options">Options</string>
+    <string name="menu_statistic">Statistics</string>
+    <string name="menu_achievements">Achievements</string>
+    <string name="menu_information">Information</string>
+
+    <string name="window_name">Smokes at day</string>
+    <string name="enter_name">Enter number of sigarettes</string>
+    <string name="enter_smokesAtDay">Enter</string>
+    <string name="month_main">Month</string>
+    <string name="day_main">Day</string>
+    <string name="increment">Increment</string>string>
+    <string name="decrement">Decrement</string>
+
+    <string name="heading">Achievements</string>
+    <string name="ach1">First steps</string>
+    <string name="ach2">Beginner</string>
+    <string name="ach3">Advanced</string>
+</resources>
